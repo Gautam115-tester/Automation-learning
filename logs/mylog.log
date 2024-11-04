@@ -1,0 +1,5 @@
+[INFO ] 2024-01-17 17:10:48.048 [main] FrontAccounting - browser has been open
+[INFO ] 2024-01-17 17:10:50.050 [main] FrontAccounting - Webapplication has been launch
+[INFO ] 2024-01-17 17:10:51.051 [main] FrontAccounting - user is trying to login
+[ERROR] 2024-01-17 17:10:51.051 [main] FrontAccounting - user unable to login
+[INFO ] 2024-01-17 17:10:51.051 [main] FrontAccounting - Quitting browser

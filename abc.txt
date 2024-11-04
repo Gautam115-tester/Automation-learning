@@ -1,0 +1,2 @@
+This is our first writing code in java by using FileWriter 
+ okay now bye 
