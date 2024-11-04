@@ -47,13 +47,6 @@ public class FileHandling {
 		}
 		*/
 		
-		// code to delete a file
-		File myfile = new File("xyz.txt");
-		if (myfile.abs) {
-			System.out.println("I have deleted : "+myfile.getName());
-		}else {
-			System.out.println("Some problem occured while deleting the file");
-		}
 
 	}
 
